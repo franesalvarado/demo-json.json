@@ -1,0 +1,6 @@
+echo "# demo-json.json" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/franesalvarado/demo-json.json.git
+git push -u origin master
